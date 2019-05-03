@@ -1,0 +1,17 @@
+cv2
+numpy
+argparse
+dill
+fire
+matplotlib
+numba
+psutil
+pycocotools
+requests
+scikit-image
+scipy
+slidingwindow
+tqdm
+re
+tarfile
+urllib
